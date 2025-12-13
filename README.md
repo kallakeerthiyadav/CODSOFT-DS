@@ -43,6 +43,21 @@ The dataset is used to train and evaluate a regression model.
 - Pandas
 - NumPy
 - Sc
-- Google colab 
+- Google colab
+
+### Task 3: Iris Flower Classification
+### Objective
+To build a machine learning model that classifies iris flowers into three species based on flower measurements.
+### Dataset
+Built-in Iris dataset from scikit-learn.
+### Model Used
+- Logistic Regression
+### Tools & Technologies
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+### Result
+- Model Accuracy: 100%
 ## Internship
 CodSoft Data Science Internship
