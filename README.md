@@ -27,5 +27,22 @@ The Titanic dataset contains information such as:
 6. Evaluated the model using accuracy score
 ## Result
 - Model Accuracy: ~79%
+
+
+## Task 2: Movie Rating Prediction
+## Objective
+The objective of this project is to build a machine learning model that predicts movie ratings based on given features such as release year and movie duration.
+## Dataset
+A sample movie dataset containing:
+- Release Year
+- Movie Duration
+- Movie Rating
+The dataset is used to train and evaluate a regression model.
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Sc
+- Google colab 
 ## Internship
 CodSoft Data Science Internship
