@@ -1,30 +1,31 @@
-# CODSOFT – Data Science Internship
-This repository contains the projects completed as part of the **CodSoft Data Science Internship**.  
-The tasks focus on applying machine learning concepts using Python and real-world datasets.
-## 📂 Tasks Completed
-### Task 1: Titanic Survival Prediction
-- Built a machine learning model to predict passenger survival on the Titanic.
-- Performed data cleaning, feature encoding, and model training.
-- Algorithm used: Logistic Regression
-- Accuracy achieved: ~79%
-  
-  ### tasks to be completed
-### Task 2: Movie Rating Prediction
-- Developed a regression model to predict movie ratings based on movie features.
-- Applied data preprocessing and regression techniques.
-- Algorithm used: Linear Regression
-### Task 3: Iris Flower Classification
-- Classified Iris flowers into three species using sepal and petal measurements.
-- Applied supervised machine learning classification techniques.
-- Algorithm used: Logistic Regression / KNN
+# Task 1: Titanic Survival Prediction
+## Objective
+The objective of this project is to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on given features.
+## Dataset
+The Titanic dataset contains information such as:
+- Passenger class
+- Gender
+- Age
+- Fare
+- Embarked port
+## Target variable:
+- Survived
 ## Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Google Colab
-##  Platform
-- Google Colab
-
-## 📎 Internship
+## Model Used
+- Logistic Regression
+## Steps Performed
+1. Loaded and explored the dataset
+2. Handled missing values
+3. Converted categorical data into numerical form
+4. Split the data into training and testing sets
+5. Trained the machine learning model
+6. Evaluated the model using accuracy score
+## Result
+- Model Accuracy: ~79%
+## Internship
 CodSoft Data Science Internship
