@@ -1,63 +1,37 @@
-# Task 1: Titanic Survival Prediction
-## Objective
-The objective of this project is to build a machine learning model that predicts whether a passenger survived the Titanic disaster based on given features.
-## Dataset
-The Titanic dataset contains information such as:
-- Passenger class
-- Gender
-- Age
-- Fare
-- Embarked port
-## Target variable:
-- Survived
+# CodSoft Data Science Internship
+This repository contains the projects completed as part of the CodSoft Data Science Internship.  
+These tasks focus on building a strong foundation in data analysis and machine learning using Python.
 ## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Google Colab
-## Model Used
-- Logistic Regression
-## Steps Performed
-1. Loaded and explored the dataset
-2. Handled missing values
-3. Converted categorical data into numerical form
-4. Split the data into training and testing sets
-5. Trained the machine learning model
-6. Evaluated the model using accuracy score
-## Result
-- Model Accuracy: ~79%
-
-
-## Task 2: Movie Rating Prediction
-## Objective
-The objective of this project is to build a machine learning model that predicts movie ratings based on given features such as release year and movie duration.
-## Dataset
-A sample movie dataset containing:
-- Release Year
-- Movie Duration
-- Movie Rating
-The dataset is used to train and evaluate a regression model.
-## Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Sc
-- Google colab
-
+ Python  
+ Pandas  
+ NumPy  
+ Scikit-learn  
+ Google colab  
+ GitHub  
+## Projects Completed
+### Task 1: Titanic Survival Prediction
+ Built a machine learning model to predict whether a passenger survived the Titanic disaster.
+ Used passenger features such as class, gender, age, and fare.
+ Applied Logistic Regression for classification.
+ Evaluated the model using accuracy score.
+### Task 2: Movie Rating Prediction
+ Developed a regression model to predict movie ratings.
+ Used features like number of votes and runtime.
+ Applied Linear Regression.
+ Evaluated the model using Mean Absolute Error (MAE).
 ### Task 3: Iris Flower Classification
-### Objective
-To build a machine learning model that classifies iris flowers into three species based on flower measurements.
-### Dataset
-Built-in Iris dataset from scikit-learn.
-### Model Used
-- Logistic Regression
-### Tools & Technologies
-- Python
-- Pandas
-- Scikit-learn
-- Google Colab
-### Result
-- Model Accuracy: 100%
-## Internship
-CodSoft Data Science Internship
+ Classified Iris flowers into three species: Setosa, Versicolor, and Virginica.
+ Used the built-in Iris dataset from Scikit-learn.
+ Applied Logistic Regression for classification.
+ Achieved high accuracy due to clean and well-structured data.
+## Internship Outcome
+ Gained hands-on experience in data preprocessing and machine learning.
+ Learned to build, train, and evaluate ML models.
+ Improved understanding of real-world data science workflows.
+## Internship Details
+  Organization: codsoft
+  Domain: Data Science
+  Role:Intern
+  Status: Tasks Successfully Completed
+## Conclusion
+This repository demonstrates my learning and practical experience gained during the CodSoft Data Science Internship.
