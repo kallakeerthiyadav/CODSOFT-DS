@@ -21,5 +21,3 @@ Titanic Dataset containing passenger details such as:
 6. Evaluated model accuracy
 ## Result
 The model successfully predicts passenger survival with good accuracy.
-## Internship
-This project is part of CodSoft Data Science Internship Task 1.
